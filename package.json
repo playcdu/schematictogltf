@@ -1,0 +1,23 @@
+{
+  "name": "schematictogltf",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-extra": "^11.0.1",
+    "@types/node": "^18.11.18",
+    "@types/prompts": "^2.4.2",
+    "chalk": "^5.2.0",
+    "fs-extra": "^11.1.0",
+    "gltf-pipeline": "^3.0.5",
+    "obj2gltf": "^3.1.4",
+    "ora": "^6.1.2",
+    "prompts": "^2.4.2"
+  }
+}
